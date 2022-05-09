@@ -7,7 +7,7 @@ pillow==3.4.2
 matplotlib==1.5.1
 seaborn==0.7.0
 jupyter
-notebook
+#notebook
 line_profiler
 memory_profiler
 numexpr
