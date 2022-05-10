@@ -5,4 +5,4 @@ def square(x):
     return x**2
 for n in range(1,4):
     square(n)
-    
+    print(n,"Squares is ",square(n))
